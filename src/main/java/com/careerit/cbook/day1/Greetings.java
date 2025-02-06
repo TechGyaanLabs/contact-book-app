@@ -6,5 +6,10 @@ public class Greetings {
         System.out.println("Welcome to Python Programming");
         System.out.println("Welcome to Java Programming");
         System.out.println("Welcome to .Net Programming");
+
+        System.out.println("Learning programming by doing");
+
+
+        System.out.println("Start learning programming with Java");
     }
 }
